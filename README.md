@@ -1,4 +1,4 @@
-# **Life Expectancy Prediction with Machine Learning**
+# **Life Expectancy Prediction Using Machine Learning**
 
 ## **Table of Contents**
 

@@ -28,18 +28,18 @@
   
   **Reg No**- 2018-15-24
   
-  *Department of CSE,RMSTU*
+    Department of CSE,RMSTU
   
 - **Saikat Das Roky**
   
   **Reg No**- 2018-15-18
   
-*Department of CSE,RMSTU*
+    Department of CSE,RMSTU
 
 ### **Instructor**
 - **Md Mynoddin**
 
-  *Assistant Professor , Department of CSE, RMSTU*
+  Assistant Professor , Department of CSE, RMSTU
 
 ---
 ## **Project Overview**

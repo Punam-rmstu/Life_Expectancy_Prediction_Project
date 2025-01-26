@@ -39,8 +39,16 @@
 ---
 ## **Project Overview**
 
+Life expectancy is a key indicator of a nation's health, socio-economic progress, and overall quality of life. Understanding and accurately predicting life expectancy provides insights into the combined effects of health, environmental, and economic factors, enabling targeted and effective public health strategies.
+
+This project leverages machine learning techniques to analyze global datasets, identifying critical predictors such as healthcare access, income levels, disease prevalence, and lifestyle choices. These models uncover patterns and trends that traditional methods might overlook.
+
+The study aims to provide policymakers with actionable, data-driven insights to address health disparities and improve life expectancy, especially in resource-limited regions.
+
+
 ### **Objective**
-The primary goal of this project is to develop a robust machine learning pipeline to predict life expectancy using various health, demographic, and socioeconomic features. The model aims to provide insights into the critical factors influencing life expectancy, enabling data-driven decision-making to enhance public health strategies and resource allocation. This project also explores feature importance to guide policymakers on prioritizing impactful interventions.
+The goal of this project is to build a reliable machine learning pipeline capable of predicting life expectancy based on various health, demographic, and socioeconomic factors. By analyzing critical predictors, the project aims to uncover key drivers of life expectancy, providing actionable insights to improve public health strategies and optimize resource allocation. Additionally, the study emphasizes feature importance to guide policymakers in prioritizing impactful interventions for enhancing global health outcomes.
+
 
 ### **Significance**
 Life expectancy serves as a vital benchmark for the overall health, development, and well-being of a population. By predicting life expectancy and analyzing the underlying contributors, this project:

@@ -27,9 +27,11 @@
 - **Punam Kanungoe**
   
   **Reg No**- 2018-15-24
+  *Department of CSE,RMSTU*
 - **Saikat Das Roky**
   
   **Reg No**- 2018-15-18
+*Department of CSE,RMSTU*
 
 ### **Instructor**
 - **Md Mynoddin**
@@ -50,12 +52,17 @@ The study aims to provide policymakers with actionable, data-driven insights to 
 The goal of this project is to build a reliable machine learning pipeline capable of predicting life expectancy based on various health, demographic, and socioeconomic factors. By analyzing critical predictors, the project aims to uncover key drivers of life expectancy, providing actionable insights to improve public health strategies and optimize resource allocation. Additionally, the study emphasizes feature importance to guide policymakers in prioritizing impactful interventions for enhancing global health outcomes.
 
 
-### **Significance**
-Life expectancy serves as a vital benchmark for the overall health, development, and well-being of a population. By predicting life expectancy and analyzing the underlying contributors, this project:
-- Empowers governments to allocate healthcare resources more effectively.
-- Supports organizations in formulating policies to combat health inequities.
-- Helps businesses identify market opportunities in healthcare, insurance, and retirement planning.
-- Provides insights into how socioeconomic, demographic, and health-related factors interact to shape global health outcomes.
+### **Significance** 
+
+Life expectancy is not only a measure of public health but also a reflection of a nation’s development and well-being. This project underscores its importance by:
+
+- Equipping governments with data-driven insights to design effective public health policies.
+- Empowering individuals with personalized health recommendations: By understanding the various factors that influence life expectancy, 
+  individuals can be better informed about lifestyle choices that can improve their quality of life and longevity.
+- Guiding organizations in addressing disparities in healthcare access and outcomes.
+- Enabling businesses to assess market needs in sectors such as insurance, healthcare, and elder care.
+- Providing a deeper understanding of how various social, economic, and health factors influence global life expectancy trends.
+- Supporting global health initiatives: The project aids in identifying key factors contributing to life expectancy differences across regions, helping international organizations target interventions more effectively in areas with low life expectancy.
 
 ### **Dataset**
 The dataset used in this project is the **Life Expectancy Dataset**, published by the WHO and the United Nations. It covers:

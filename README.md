@@ -139,7 +139,7 @@ The dataset spans **15 years (2000–2015)** and includes information for **193 
 
 ---
 
-## Exploratory Data Analysis (EDA)
+### ##Exploratory Data Analysis (EDA)
 
 - **Distribution Analysis**:  
   Visualized distributions of key numerical features (e.g., life expectancy, GDP, BMI) using histograms and box plots to understand the spread, outliers, and skewness in the data.
@@ -154,7 +154,7 @@ The dataset spans **15 years (2000–2015)** and includes information for **193 
 
 ---
 
-## Feature Engineering
+### ##Feature Engineering
 
 - **Derived Features**:  
   Engineered new features like `bmi_to_hiv_ratio` to capture the interplay between BMI and HIV/AIDS prevalence, providing additional predictive power to the model.  
@@ -164,7 +164,7 @@ The dataset spans **15 years (2000–2015)** and includes information for **193 
 
 ---
 
-## Model Training
+### ##Model Training
 
 Trained and evaluated the following regression models for life expectancy prediction:
 
@@ -179,14 +179,14 @@ Models were selected to cover a mix of linear, ensemble, and non-linear approach
 
 ---
 
-## Hyperparameter Tuning
+### ##Hyperparameter Tuning
 
 - Utilized `GridSearchCV` to fine-tune hyperparameters for models like Random Forest, Gradient Boosting, and SVR to achieve optimal performance.  
 - Employed time-aware cross-validation (expanding window method) to mimic real-world scenarios, ensuring no data leakage and realistic evaluation metrics.
 
 ---
 
-## Model Evaluation
+### ##Model Evaluation
 
 - **Performance Metrics**:  
   Compared models using training and testing R² scores to evaluate how well the models fit the data and generalize to unseen samples.  

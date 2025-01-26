@@ -33,6 +33,7 @@
 
 ### **Instructor**
 - **Md Mynoddin**
+- **Assistant Professor , Department of CSE, RMSTU**
 
 ---
 ## **Project Overview**

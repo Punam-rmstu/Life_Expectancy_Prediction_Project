@@ -215,7 +215,7 @@ Models were selected to cover a mix of linear, ensemble, and non-linear approach
 - Socioeconomic and demographic features like schooling, GDP, and income composition emerged as the most influential predictors.
 - Health indicators, such as immunization coverage, had relatively lower importance due to widespread implementation globally.
 
-### **Recommendations
+### **Recommendations**
 
 Based on the insights from this project, the following actions are recommended:
 

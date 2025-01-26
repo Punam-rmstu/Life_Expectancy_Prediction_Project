@@ -1,7 +1,7 @@
 # Dataset Description: Life Expectancy Prediction
 
 ## **Source**
-The dataset used in this project was collected from [Kaggle]([https://www.kaggle.com/kumarajarshi/life-expectancy-who]), originally sourced from:
+The dataset used in this project was collected from [Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who), originally sourced from:
 - **World Health Organization (WHO):** Health-related data for 193 countries.
 - **United Nations (UN):** Economic data corresponding to the same countries.
 

@@ -44,16 +44,15 @@
 ---
 ## **Project Overview**
 
-Life expectancy is a key indicator of a nation's health, socio-economic progress, and overall quality of life. Understanding and accurately predicting life expectancy provides insights into the combined effects of health, environmental, and economic factors, enabling targeted and effective public health strategies.
+This project focuses on predicting life expectancy using machine learning techniques by analyzing various socio-economic, demographic, and health-related factors. It aims to provide actionable insights into how these variables influence life expectancy across different regions and populations. By leveraging data-driven approaches, the project highlights critical patterns and trends that can support better decision-making for public health and policy initiatives.
 
-This project leverages machine learning techniques to analyze global datasets, identifying critical predictors such as healthcare access, income levels, disease prevalence, and lifestyle choices. These models uncover patterns and trends that traditional methods might overlook.
+## Objective
 
-The study aims to provide policymakers with actionable, data-driven insights to address health disparities and improve life expectancy, especially in resource-limited regions.
+The primary objectives of this project are:
 
-
-### **Objective**
-The goal of this project is to build a reliable machine learning pipeline capable of predicting life expectancy based on various health, demographic, and socioeconomic factors. By analyzing critical predictors, the project aims to uncover key drivers of life expectancy, providing actionable insights to improve public health strategies and optimize resource allocation. Additionally, the study emphasizes feature importance to guide policymakers in prioritizing impactful interventions for enhancing global health outcomes.
-
+- To develop a machine learning model capable of accurately predicting life expectancy based on a wide range of factors, such as income, healthcare access, education, and lifestyle.
+- To identify and quantify the impact of key features that influence life expectancy, offering insights into areas where intervention can improve public health outcomes.
+- To provide governments, organizations, and businesses with actionable recommendations derived from the model to reduce disparities and improve quality of life globally.
 
 ### **Significance** 
 
@@ -62,7 +61,6 @@ Life expectancy is not only a measure of public health but also a reflection of 
 - Equipping governments with data-driven insights to design effective public health policies.
 - Empowering individuals with personalized health recommendations: By understanding the various factors that influence life expectancy, 
   individuals can be better informed about lifestyle choices that can improve their quality of life and longevity.
-- Guiding organizations in addressing disparities in healthcare access and outcomes.
 - Enabling businesses to assess market needs in sectors such as insurance, healthcare, and elder care.
 - Providing a deeper understanding of how various social, economic, and health factors influence global life expectancy trends.
 - Supporting global health initiatives: The project aids in identifying key factors contributing to life expectancy differences across regions, helping international organizations target interventions more effectively in areas with low life expectancy.
@@ -75,8 +73,7 @@ The dataset used in this project was collected from [Kaggle](https://www.kaggle.
 This dataset provides comprehensive information about health, socio-economic, and environmental factors influencing life expectancy worldwide.
 The dataset spans **15 years (2000–2015)** and includes information for **193 countries**. It consists of critical variables that represent key health, economic, and social factors. After merging and cleaning, the final dataset contains:
 - **Rows:** 2938
-- **Columns:** 22 (including the target variable and 20 predictors).
-- 
+- **Columns:** 22 (including the target variable and 20 predictors). 
 - Health, demographic, and socioeconomic indicators, such as:
   - Life expectancy (target variable)
   - Adult mortality, infant deaths
@@ -183,7 +180,7 @@ Trained and evaluated the following regression models:
 - Health indicators, such as immunization coverage, had relatively lower importance due to widespread implementation globally.
 
 ### **Recommendations**
-- Governments should focus on:
+  - Governments should focus on:
   - Reducing HIV/AIDS prevalence.
   - Improving education systems to ensure equitable access to quality schooling.
   - Increasing investments in health infrastructure and income equality.
@@ -191,13 +188,13 @@ Trained and evaluated the following regression models:
 ---
 
 ## **Future Enhancements**
-1. Incorporate additional datasets (e.g., global economic indices) for enhanced predictions.
-2. Deploy the model via a Flask API for real-time predictions.
-3. Implement ensemble methods (e.g., stacking) for improved accuracy.
-4. Automate dataset preprocessing and feature engineering pipelines.
+1. Dataset Expansion: Incorporate more demographic, environmental, and genetic factors.
+2. Real-time Integration: Develop an API-based real-time prediction system.
+3. Explainability: Enhance model interpretability using SHAP or LIME.
+4. Global Analysis: Extend the study to include datasets from diverse countries.
+5. Advanced Techniques: Explore deep learning models for improved accuracy.
 
 ---
-
 
 ## **References**
 - **WHO Life Expectancy Dataset**: [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)

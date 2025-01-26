@@ -1,7 +1,3 @@
-# MachineLearningProject
-This repository is created for the purpose of documenting and collaborating on my machine learning project. It serves as a platform to showcase my work, share progress updates, and invite collaboration from fellow professionals and mentors in the field.
-<br>
-Author - Punam Kanungoe
 # **Life Expectancy Prediction with Machine Learning**
 
 ## **Table of Contents**
@@ -28,13 +24,12 @@ Author - Punam Kanungoe
 ---
 ## **Contributors and Instructor**
 ### **Contributors**
-- **Saikat Das Roky**
-  
-  **Reg No**- 2018-15-18
 - **Punam Kanungoe**
   
   **Reg No**- 2018-15-24
-
+- **Saikat Das Roky**
+  
+  **Reg No**- 2018-15-18
 
 ### **Instructor**
 - **Md Mynoddin**

@@ -68,8 +68,15 @@ Life expectancy is not only a measure of public health but also a reflection of 
 - Supporting global health initiatives: The project aids in identifying key factors contributing to life expectancy differences across regions, helping international organizations target interventions more effectively in areas with low life expectancy.
 
 ### **Dataset**
-The dataset used in this project is the **Life Expectancy Dataset**, published by the WHO and the United Nations. It covers:
-- **183 countries** over **16 years** (2000–2015).
+The dataset used in this project was collected from [Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who), originally sourced from:
+- **World Health Organization (WHO):** Health-related data for 193 countries.
+- **United Nations (UN):** Economic data corresponding to the same countries.
+
+This dataset provides comprehensive information about health, socio-economic, and environmental factors influencing life expectancy worldwide.
+The dataset spans **15 years (2000–2015)** and includes information for **193 countries**. It consists of critical variables that represent key health, economic, and social factors. After merging and cleaning, the final dataset contains:
+- **Rows:** 2938
+- **Columns:** 22 (including the target variable and 20 predictors).
+- 
 - Health, demographic, and socioeconomic indicators, such as:
   - Life expectancy (target variable)
   - Adult mortality, infant deaths

@@ -69,5 +69,5 @@ This dataset can be used for:
 We extend our gratitude to:
 - The **World Health Organization (WHO)** for providing health data.
 - The **United Nations (UN)** for economic data.
-- [Kaggle]([https://www.kaggle.com/kumarajarshi/life-expectancy-who]) for making this dataset accessible to the public.
+- [Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who) for making this dataset accessible to the public.
 

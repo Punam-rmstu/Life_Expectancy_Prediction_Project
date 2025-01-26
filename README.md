@@ -174,4 +174,6 @@ Trained and evaluated the following regression models:
 
 ## **References**
 - **WHO Life Expectancy Dataset**: [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
+- **Learning Material** (https://developer.ibm.com/learningpaths/learning-path-machine-learning-for-developers![image](https://github.com/user-attachments/assets/17e19ada-917e-47ba-bb2a-effafa0cfda6)
+
 

@@ -20,8 +20,9 @@
    - [Hyperparameter Tuning](#hyperparameter-tuning)
    - [Model Evaluation](#model-evaluation)
 6. [Results and Insights](#results-and-insights)
-7. [Future Enhancements](#future-enhancements)
-8. [References](#references)
+7. [Recommendation](#recommendation)
+8. [Future Enhancements](#future-enhancements)
+9. [References](#references)
 
 ---
 ## **Contributors**
@@ -225,8 +226,10 @@ Models were selected to cover a mix of linear, ensemble, and non-linear approach
 ### **Feature Importance**
 - Socioeconomic and demographic features like schooling, GDP, and income composition emerged as the most influential predictors.
 - Health indicators, such as immunization coverage, had relatively lower importance due to widespread implementation globally.
-  
-### **Recommendations**
+
+---
+
+## **Recommendations**
 
 Based on the insights from this project, the following actions are recommended:
 

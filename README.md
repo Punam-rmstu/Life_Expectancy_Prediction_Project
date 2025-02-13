@@ -56,14 +56,15 @@
 
 This project focuses on predicting life expectancy using machine learning techniques by analyzing various socio-economic, demographic, and health-related factors. It aims to provide actionable insights into how these variables influence life expectancy across different regions and populations. By leveraging data-driven approaches, the project highlights critical patterns and trends that can support better decision-making for public health and policy initiatives.
 
-## Objective
+
+### Objective
 
 The primary objectives of this project are:
 
 - To develop a machine learning model capable of accurately predicting life expectancy based on a wide range of factors, such as income, healthcare access, education, and lifestyle.
 - To identify and quantify the impact of key features that influence life expectancy, offering insights into areas where intervention can improve public health outcomes.
 - To provide governments, organizations, and businesses with actionable recommendations derived from the model to reduce disparities and improve quality of life globally.
-
+  
 ### **Significance** 
 
 Life expectancy is not only a measure of public health but also a reflection of a nation’s development and well-being. This project underscores its importance by:
@@ -74,6 +75,7 @@ Life expectancy is not only a measure of public health but also a reflection of 
 - Enabling businesses to assess market needs in sectors such as insurance, healthcare, and elder care.
 - Providing a deeper understanding of how various social, economic, and health factors influence global life expectancy trends.
 - Supporting global health initiatives: The project aids in identifying key factors contributing to life expectancy differences across regions, helping international organizations target interventions more effectively in areas with low life expectancy.
+  
 
 ### **Dataset**
 The dataset used in this project was collected from [Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who), originally sourced from:
@@ -146,8 +148,7 @@ The dataset spans **15 years (2000–2015)** and includes information for **193 
 
 - **Feature Scaling**:  
   Applied `MinMaxScaler` to normalize numeric features into a uniform range (0-1). This scaling ensured that features with varying magnitudes contributed equally during model training, preventing bias toward large-valued features.
-
----
+  
 
 ### **Exploratory Data Analysis (EDA)**
 
@@ -162,7 +163,7 @@ The dataset spans **15 years (2000–2015)** and includes information for **193 
   - Observed a strong negative correlation between adult mortality and life expectancy.  
   - Found positive correlations between life expectancy and features such as income composition of resources and schooling, indicating socioeconomic factors' critical influence.
 
----
+
 
 ### **Feature Engineering**
 
@@ -172,7 +173,7 @@ The dataset spans **15 years (2000–2015)** and includes information for **193 
 - **Multicollinearity Reduction**:  
   Conducted variance inflation factor (VIF) analysis to detect and address multicollinearity among independent variables, ensuring model stability and interpretability.
 
----
+
 
 ### **Model Training**
 
@@ -187,14 +188,14 @@ Trained and evaluated the following regression models for life expectancy predic
 
 Models were selected to cover a mix of linear, ensemble, and non-linear approaches, providing a comprehensive evaluation of their performance.
 
----
+
 
 ### **Hyperparameter Tuning**
 
 - Utilized `GridSearchCV` to fine-tune hyperparameters for models like Random Forest, Gradient Boosting, and SVR to achieve optimal performance.  
 - Employed time-aware cross-validation (expanding window method) to mimic real-world scenarios, ensuring no data leakage and realistic evaluation metrics.
 
----
+
 
 ### **Model Evaluation**
 
@@ -206,8 +207,8 @@ Models were selected to cover a mix of linear, ensemble, and non-linear approach
 
 - **Feature Importance**:  
   Conducted feature importance analysis using SHAP (SHapley Additive exPlanations) and permutation importance to understand the contribution of each feature to model predictions.
-
-
+  
+---
 
 ## **Results and Insights**
 
@@ -224,7 +225,7 @@ Models were selected to cover a mix of linear, ensemble, and non-linear approach
 ### **Feature Importance**
 - Socioeconomic and demographic features like schooling, GDP, and income composition emerged as the most influential predictors.
 - Health indicators, such as immunization coverage, had relatively lower importance due to widespread implementation globally.
-
+  
 ### **Recommendations**
 
 Based on the insights from this project, the following actions are recommended:

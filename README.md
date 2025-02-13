@@ -229,7 +229,7 @@ Models were selected to cover a mix of linear, ensemble, and non-linear approach
 
 ---
 
-## **Recommendations**
+## **Recommendation**
 
 Based on the insights from this project, the following actions are recommended:
 

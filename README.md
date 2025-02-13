@@ -257,6 +257,8 @@ Based on the insights from this project, the following actions are recommended:
 ## **References**
 - **WHO Life Expectancy Dataset**: [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - **https://developer.ibm.com/learningpaths/learning-path-machine-learning-for-developers**
+- **Mahumud, R.A., Hossain, G., Hossain, R., Islam, N. and Rawal, L.,;, “Impact of Life Expectancy on Economic Growth and Health Care 
+    Expenditures in Bangladesh.,” Universal Journal of Public Health, vol. 1, no. 4, pp. 180-186, 2013.**
 - **Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830.**
 - **Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Statistics, 29(5), 1189-1232.**
 - **Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5-32.**

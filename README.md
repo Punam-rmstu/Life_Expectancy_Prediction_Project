@@ -1,4 +1,4 @@
-# **Life Expectancy Prediction Using Machine Learning**
+# **Project Name : Life Expectancy Prediction Using Machine Learning**
 
 ## **Table of Contents**
 

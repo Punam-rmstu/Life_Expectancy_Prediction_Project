@@ -1,45 +1,55 @@
-# **Project Name : Life Expectancy Prediction Using Machine Learning**
+# **Life Expectancy Prediction Using Machine Learning**
 
 ## **Table of Contents**
 
-1. [Contributors and Instructor](#contributors-and-instructor)
-2. [Project Overview](#project-overview)
+1. [Contributors](#contributors)
+2. [Instructor](#instructor)
+3. [Course Information](#course-information)
+4. [Project Overview](#project-overview)
    - [Objective](#objective)
    - [Significance](#significance)
    - [Dataset](#dataset)
    - [Key Features](#key-features)
    - [The Columns of the Dataset](#the-columns-of-the-dataset)
    - [Technologies Used](#technologies-used)
-3. [Detailed Project Workflow](#detailed-project-workflow)
+5. [Detailed Project Workflow](#detailed-project-workflow)
    - [Data Preprocessing](#data-preprocessing)
    - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
    - [Feature Engineering](#feature-engineering)
    - [Model Training](#model-training)
    - [Hyperparameter Tuning](#hyperparameter-tuning)
    - [Model Evaluation](#model-evaluation)
-4. [Results and Insights](#results-and-insights)
-5. [Future Enhancements](#future-enhancements)
-6. [References](#references)
+6. [Results and Insights](#results-and-insights)
+7. [Future Enhancements](#future-enhancements)
+8. [References](#references)
 
 ---
-## **Contributors and Instructor**
-### **Contributors**
+## **Contributors**
+
 - **Punam Kanungoe**
   
   **Reg No**- 2018-15-24
   
-    Department of CSE,RMSTU
+  **Department**- CSE,RMSTU
   
 - **Saikat Das Roky**
   
   **Reg No**- 2018-15-18
   
-    Department of CSE,RMSTU
+  **Department**- CSE,RMSTU
+---  
+## **Instructor**
+  **Md Mynoddin**
 
-### **Instructor**
-- **Md Mynoddin**
+  **Designation:** Assistant Professor
+  
+  **Department :** CSE, RMSTU
 
-  Assistant Professor , Department of CSE, RMSTU
+---
+## Course Information  
+- **Degree:** BSc in Computer Science and Engineering  
+- **Year & Semester:** 4th Year, 2nd Semester  
+- **Course Name & Code:** [Machine Learning Lab] (CSE-5211)
 
 ---
 ## **Project Overview**
@@ -243,8 +253,8 @@ Based on the insights from this project, the following actions are recommended:
 ## **References**
 - **WHO Life Expectancy Dataset**: [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - **https://developer.ibm.com/learningpaths/learning-path-machine-learning-for-developers**
-- **Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Statistics, 29(5), 1189-1232.**
 - **Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830.**
+- **Friedman, J. H. (2001). Greedy Function Approximation: A Gradient Boosting Machine. Annals of Statistics, 29(5), 1189-1232.**
 - **Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5-32.**
 
 

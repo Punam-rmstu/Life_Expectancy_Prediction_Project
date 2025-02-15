@@ -84,7 +84,7 @@ The dataset used in this project was collected from [Kaggle](https://www.kaggle.
 - **United Nations (UN):** Economic data corresponding to the same countries.
 
 This dataset provides comprehensive information about health, socio-economic, and environmental factors influencing life expectancy worldwide.
-The dataset spans **15 years (2000–2015)** and includes information for **193 countries**. It consists of critical variables that represent key health, economic, and social factors. After merging and cleaning, the final dataset contains:
+The dataset spans **16 years (2000–2015)** and includes information for **193 countries**. It consists of critical variables that represent key health, economic, and social factors. After merging and cleaning, the final dataset contains:
 - **Rows:** 2938
 - **Columns:** 22 (including the target variable and 20 predictors). 
 - Health, demographic, and socioeconomic indicators, such as:

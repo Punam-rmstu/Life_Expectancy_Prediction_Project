@@ -107,8 +107,8 @@ The dataset spans **16 years (2000–2015)** and includes information for **193 
   - **Life expectancy** : Life expectancy in age
   - **Adult Mortality** : Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
   - **infant deaths** : Number of Infant Deaths per 1000 population
-  - **Alcohol** : Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol) -percentage expenditure: Expenditure on 
-                  health as a percentage of Gross Domestic Product per capita(%)
+  - **Alcohol** : Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
+    **percentage expenditure**: Expenditure on health as a percentage of Gross Domestic Product per capita(%)
   - **Hepatitis B** : Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
   - **Measles** : Measles - number of reported cases per 1000 population
   - **BMI** : Average Body Mass Index of entire population

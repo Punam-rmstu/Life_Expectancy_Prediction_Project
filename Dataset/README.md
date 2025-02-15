@@ -10,7 +10,7 @@ This dataset provides comprehensive information about health, socio-economic, an
 ---
 
 ## **Dataset Overview**
-The dataset spans **15 years (2000–2015)** and includes information for **193 countries**. It consists of critical variables that represent key health, economic, and social factors. After merging and cleaning, the final dataset contains:
+The dataset spans **16 years (2000–2015)** and includes information for **193 countries**. It consists of critical variables that represent key health, economic, and social factors. After merging and cleaning, the final dataset contains:
 - **Rows:** 2938
 - **Columns:** 22 (including the target variable and 20 predictors)
 
@@ -52,7 +52,7 @@ The predicting variables are grouped into the following categories for better an
 ---
 
 ## **Key Observations**
-- Significant improvements in health outcomes have been observed globally, especially in developing nations, over the past 15 years compared to the previous three decades.
+- Significant improvements in health outcomes have been observed globally, especially in developing nations, over the past 16 years compared to the previous three decades.
 - The data highlights critical factors influencing life expectancy, such as healthcare access, economic stability, and social behaviors.
 
 ---
